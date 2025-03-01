@@ -5,6 +5,10 @@ This is a responsive and animated **Login/Signup** page built using **React.js**
 ## **Preview**
 ![image alt](https://github.com/DJPanwar/Login_From/blob/main/src/assets/assignment.png?raw=true)
 
+![image alt](https://github.com/DJPanwar/Login_From/blob/main/src/assets/assignmnet-2.png?raw=true)
+
+
+
 
 
 
