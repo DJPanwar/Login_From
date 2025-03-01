@@ -7,13 +7,12 @@ This is a responsive and animated **Login/Signup** page built using **React.js**
 
 ![image alt](https://github.com/DJPanwar/Login_From/blob/main/src/assets/assignmnet-2.png?raw=true)
 
-
-
-
-
-
-
-
+## **Features**
+- Responsive design for both desktop and mobile.
+- Smooth animations using Framer Motion.
+- Toggle between **Login** and **Signup** forms.
+- Social login options (Google & Apple).
+- Styled with Tailwind CSS.
 
 # React + Vite
 
