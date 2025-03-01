@@ -3,7 +3,7 @@
 This is a responsive and animated **Login/Signup** page built using **React.js** and **Framer Motion** for smooth transitions.
 
 ## **Preview**
-![Login Page Preview](./assets/preview.jpg)  
+![Login Page Preview]([./assets/preview.jpg](https://github.com/DJPanwar/Login_From/blob/main/src/assets/assignment.png?raw=true))  
 
 
 
