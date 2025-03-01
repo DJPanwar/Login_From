@@ -1,3 +1,16 @@
+# Login Page with Animated UI
+
+This is a responsive and animated **Login/Signup** page built using **React.js** and **Framer Motion** for smooth transitions.
+
+## **Preview**
+![Login Page Preview](./assets/preview.jpg)  
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
